@@ -1,2 +1,2 @@
-# DL-from-scratch
-Deep Learning architectures created from scratch.
+# ML-from-scratch
+Machine Learning models created from scratch.
